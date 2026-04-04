@@ -22,6 +22,13 @@ As the AI space rapidly evolves, I am actively exploring and experimenting with 
 * **AI Research & Prototyping**: Documenting insights and testing limits as new capabilities are uncovered in the industry.
 
 ---
+| Type | Prefix | What's here |
+|---|---|---|
+| 🔧 Personal | `personal-*` | Dotfiles & configs |
+| 🧪 Lab | `lab-*` | Experiments & spikes |
+| 📦 Templates | `template-*` | Reusable starters |
+| 🚀 Projects | `project-*` | Production work |
+| 📚 Courses | `course-*` | Learning notes |
 
 ### 📫 Connect with Me
 * **LinkedIn**: [ashisharma23](https://www.linkedin.com/in/ashisharma23/)
