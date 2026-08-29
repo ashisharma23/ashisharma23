@@ -2,6 +2,9 @@
 *FAANG System Design Interview Prep — Production-Ready Stack (2026)*
 - https://www.youtube.com/watch?v=fhdPyoO6aXI&list=PL5q3E8eRUieWtYLmRU3z94-vGRcwKr9tM
 - https://www.hellointerview.com/dashboard
+- https://www.hellointerview.com/learn/low-level-design/in-a-hurry/introduction
+- https://www.hellointerview.com/learn/ml-system-design/in-a-hurry/introduction
+- https://www.greatfrontend.com/
 
 > Persona: Principal/Staff Software Architect designing a cloud-native, agentic-AI-enabled enterprise platform. Each layer lists the tools/frameworks a real architect would shortlist, with a "pick + why" so you can defend choices in an interview.
 
